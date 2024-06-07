@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SpaceGroteskBold' ;
+    src: url(../assets/fonts/static/SpaceGrotesk-Bold.ttf) ;
+    src: url(../assets/fonts/SpaceGrotesk-VariableFont_wght.ttf);
+}
+body{
+    font-family: 'SpaceGroteskBold', sans-serif;
+}
